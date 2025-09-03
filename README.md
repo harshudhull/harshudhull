@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshudhull" alt="harshudhull" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Web development projects**
+- 👯 I’m looking to collaborate on **Software development projects**
 
 - 📫 How to reach me **harshudhull46@gmail.com**
 
